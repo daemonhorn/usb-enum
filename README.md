@@ -45,3 +45,7 @@ USB Composite Device 046D     C52B      Logitech, Inc. Unifying Receiver OK     
 - `usb.ids` is downloaded from the GitHub mirror first, then `linux-usb.org` as a fallback.
 - Devices not listed in `usb.ids` show a blank Vendor/Product.
 - The script is distributed unsigned. If your execution policy requires signed scripts, sign it yourself with `Set-AuthenticodeSignature`.
+
+## License
+
+BSD 2-Clause. See [LICENSE](LICENSE).
